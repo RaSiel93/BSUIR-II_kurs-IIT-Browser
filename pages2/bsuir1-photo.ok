@@ -1,0 +1,7 @@
+﻿<[id="title"& type="header1"& content="Корпус №1"&]>
+<[id="Photo1"& type="image"& tag="бгуир"& tag="корпус"& tag="выглядит"& tag="1"& content="c:\Users\RaSiel\browser\pages2\bsuir\БГУИР_корпус1.jpg"&]>
+<[id="toMain"& type="text"& link="pages2/bsuir.ok"& content="На главную"&]>
+
+%[title+Photo1+toMain]%
+
+?[how=!>Photo1]?

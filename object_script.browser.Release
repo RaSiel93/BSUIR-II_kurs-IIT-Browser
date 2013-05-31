@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\WebBrowser.o
+./release\MyPage.o
+./release\NodeHeader.o
+./release\NodeImage.o
+./release\NodeText.o
+./release\NodeList.o
+./release\MySite.o
+./release\Tag.o
+./release\FindStruct.o
+./release\Answer.o
+./release\moc_WebBrowser.o
+./release\qrc_button_images.o
+);

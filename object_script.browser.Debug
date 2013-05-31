@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\WebBrowser.o
+./debug\MyPage.o
+./debug\NodeHeader.o
+./debug\NodeImage.o
+./debug\NodeText.o
+./debug\NodeList.o
+./debug\MySite.o
+./debug\Tag.o
+./debug\FindStruct.o
+./debug\Answer.o
+./debug\moc_WebBrowser.o
+./debug\qrc_button_images.o
+);

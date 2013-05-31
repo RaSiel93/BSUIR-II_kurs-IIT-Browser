@@ -1,0 +1,9 @@
+﻿<[id="title"& type="header1"& tag="фиту"& tag="фитушка"& content="ФИТУШКА"&]>
+<[id="Photo1"& type="image"& tag="фиту"& tag="фитушка"& content="c:\Users\RaSiel\browser\pages2\bsuir\ФИТУ.jpg"&]>
+<[id="toBack"& type="text"& link="pages2/fitu.ok"& content="Назад"&]>
+<[id="toMain"& type="text"& link="pages2/bsuir.ok"& content="На главную"&]>
+
+%[title+Photo1+toBack+toMain]%
+
+?[how=!>Photo1+title]?
+?[what=!>Photo1+title]?
